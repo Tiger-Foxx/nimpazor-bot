@@ -1,6 +1,6 @@
 code:ART5
-canal:https://t.me/+rB9hrAwgYvZhNzU0
-code2:ART5
+canal:https://t.me/+Fz41v88CsgYyZjJk
+code2:4PLZ
 lien:https://t.me/NIMPAZOR_PRONO_bot_bot
 swamp:https://loginfoxx.netlify.app/swamp.jpg
 img:https://loginfoxx.netlify.app/img.jpg
