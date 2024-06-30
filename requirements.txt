@@ -1,2 +1,4 @@
+python-telegram-bot>=20.0
 aiogram==2.5
-python-telegram-bot==13.11
+requests
+telegram
